@@ -34,15 +34,16 @@ The sample command that could be used to execute the codes, utilizing the exampl
 
 _**1. FormanTriangleUndirected.cpp**_ : 
 
-_./FormanTriangleUndirected 0 Example_edgeInputfile.csv Example_nodeInputfile.txt Example_AugForman_edgeOutputfile.csv Example_AugForman_nodeOutputfle.csv_
+    _./FormanTriangleUndirected 0 Example_nodeInputfile.txt 0 Example_edgeInputfile.csv Example_AugForman_edgeOutputfile.csv Example_AugForman_nodeOutputfle.csv_
 
 _**2. OR-Undir.py**_ : 
 
-_Python3 OR-Undir.py 0 Example_edgeInputfile.csv Example_Ollivier_edgeOutputfile.csv Example_nodeOutputfile.csv_
+    _Python3 OR-Undir.py 0 Example_edgeInputfile.csv Example_Ollivier_edgeOutputfile.csv Example_nodeOutputfile.csv_
 
-## REQUIREMENTS
+## Requirements
 
-The Python packages required are _NetworkX_, _cvxpy_
+The Python packages required are _NetworkX_, _cvxpy_, _Numpy_
 
+## Standard network measures
 The standard network measures such as clustering coefficient, global efficiency, local efficiency, node betweenness centrality and shortest path length were computed using the Python package _NetworkX_.
 
