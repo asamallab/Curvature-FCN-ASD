@@ -12,7 +12,7 @@ For this investigation, we analysed spatially and temporally preprocessed rs-fMR
 
 ## Functional Connectivity Matrices (FCM)
 
-The 200 × 200 functional connectivity matrices of every subject, that was obtained at the end of the preprocessing pipeline is available in the edgelist format (assuming the functional connectivity matrices as the adjacency matrices of complete graphs) in FCM directory.
+The 200 × 200 functional connectivity matrices of every subject, that was obtained at the end of the preprocessing pipeline is available in the edgelist format (assuming the functional connectivity matrices as the adjacency matrices of complete graphs) in [FCM](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCM) directory.
 The files contain three columns - source, target and correlation coefficient as edge attribute.
 
 ## Functional Connectivity Networks (FCN)
