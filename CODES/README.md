@@ -6,7 +6,7 @@ The below described codes were written while carrying out research reported in t
 
 Please cite the above manuscripts if you use the codes in this repository for your work.
 
-**Code/Script details**
+## Code/Script details
 
 The following codes can be used to compute the network measures of the functional connectivity networks,
 
