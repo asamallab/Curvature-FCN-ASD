@@ -24,8 +24,19 @@ From the functional connectivity matrices we extracted the maximal spanning tree
 
 we constructed functional connectivity networks (FCNs) over a wide range of graph densities between 0.02 or 2% edges and 0.5 or 50% edges, with an increment of 0.01 or 1% edges. 
 
-The functional connectivity networks used in our study, is available in the edgelist format in FCN directory and is further organised by threshold value.The files in FCN contain three columns - source, target and correlation coefficient as edge attribute.
+The functional connectivity networks used in our study, is available in the edgelist format in [FCN](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCN) directory and is further organised by threshold value.The files in FCN contain three columns - source, target and correlation coefficient as edge attribute.
+
+## Supporting files
+
+1. **_Demographic_table.csv_**
+
+Table containing the dempgraphic information such as imaging site, unique subject identifer, age, gender and cohort (Healthy/ASD) of all the 820 subjects included in our study.
+
+2. **_Schaefer200.txt_**
+
+A list of all the 200 regions of interest (nodes) in the Functional connectivity networks. Please note that these regions are encoded as integers from 0 to 199 (in order) in the functional connectivity networks provided.
 
 ## CITATION
 If you use the data from our repository for your work, please cite,
+				
 				ADD CITATION
