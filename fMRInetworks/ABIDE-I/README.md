@@ -13,7 +13,7 @@ For this investigation, we analysed spatially and temporally preprocessed rs-fMR
 ## Functional Connectivity Matrices (FCM)
 
 The 200 × 200 functional connectivity matrices of every subject, that was obtained at the end of the preprocessing pipeline is available in the edgelist format (assuming the functional connectivity matrices as the adjacency matrices of complete graphs) in [FCM](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCM) directory.
-The files contain three columns - source, target and correlation coefficient as edge attribute.
+The files contain three columns - **source**, **target** and **correlation coefficient** as edge attribute. (Please note that our networks are undirected)
 
 ## Functional Connectivity Networks (FCN)
 
@@ -24,7 +24,9 @@ From the functional connectivity matrices we extracted the maximal spanning tree
 
 we constructed functional connectivity networks (FCNs) over a wide range of graph densities between 0.02 or 2% edges and 0.5 or 50% edges, with an increment of 0.01 or 1% edges. 
 
-The functional connectivity networks used in our study, is available in the edgelist format in [FCN](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCN) directory and is further organised by threshold value.The files in FCN contain three columns - source, target and correlation coefficient as edge attribute.
+The functional connectivity networks used in our study, is available in the edgelist format in [FCN](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCN) directory and is further organised by threshold value.
+
+The files in FCN contain three columns - **source**, **target** and **correlation coefficient** as edge attribute. (Please note that our networks are undirected)
 
 ## Supporting files
 
