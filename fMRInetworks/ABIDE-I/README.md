@@ -31,7 +31,7 @@ The files in FCN contain three columns - **source**, **target** and **correlatio
 
 1. **_demographic_table.csv_**
 
-Table containing the dempgraphic information such as imaging site, unique subject identifer, age, gender and cohort (Healthy/ASD) of all the 820 subjects included in our study.
+Table containing the demographic information such as imaging site, unique subject identifer, age, gender and cohort (healthy/ASD) of all the 820 subjects included in our study.
 
 2. **_Schaefer200.txt_**
 
