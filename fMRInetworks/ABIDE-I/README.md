@@ -15,16 +15,16 @@ For this investigation, we analysed spatially and temporally preprocessed rs-fMR
 The 200 × 200 functional connectivity matrices of every subject, that was obtained at the end of the preprocessing pipeline is available in the edgelist format (assuming the functional connectivity matrices as the adjacency matrices of complete graphs) in [FCM](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCM) directory.
 The files contain three columns - **source**, **target** and **correlation coefficient** as edge attribute. (Please note that our networks are undirected)
 
-## Functional Connectivity Networks (FCN)
+## Functional Connectivity Networks (FCNs)
 
 From the functional connectivity matrices we extracted the maximal spanning tree of every subject using Kruskal's algorithm. By combining
 
 * maximum spanning tree (MST) and 
 * sparsity-based thresholding, 
 
-we constructed functional connectivity networks (FCNs) over a wide range of graph densities between 0.02 or 2% edges and 0.5 or 50% edges, with an increment of 0.01 or 1% edges. 
+we constructed FCNs over a wide range of graph densities between 0.02 or 2% edges and 0.5 or 50% edges, with an increment of 0.01 or 1% edges. 
 
-The functional connectivity networks used in our study, is available in the edgelist format in [FCN](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCN) directory and is further organised by threshold value.
+The FCNs used in our study are available in the edgelist format in [FCN](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCN) directory, and are further organised by threshold value.
 The files in FCN contain three columns - **source**, **target** and **correlation coefficient** as edge attribute. (Please note that our networks are undirected)
 
 ## Supporting files
@@ -36,6 +36,10 @@ Table containing the demographic information such as imaging site, unique subjec
 2. **_Schaefer200.txt_**
 
 A list of all the 200 regions of interest (nodes) in the Functional connectivity networks. Please note that these regions are encoded as integers from 0 to 199 (in order) in the functional connectivity networks provided.
+
+## Supplementary Tables
+
+An Excel workbook containing all the Supplementary Tables S1-S7 for our paper can be downloaded [supplementary_tables](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/supplementary_tables) directory. A brief description of each Supplementary Table is provided as a README file inside the directory.
 
 ## CITATION
 If you use the data from our repository for your work, please cite,
