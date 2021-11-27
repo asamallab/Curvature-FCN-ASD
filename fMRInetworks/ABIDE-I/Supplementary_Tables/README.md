@@ -1,4 +1,4 @@
-# Brief description of Supplementary Tables
+# Brief Description of Supplementary Tables
 
 **Supplementary Table S1:** Quality assessment and exclusion strategy for the 1112 subjects originally in the ABIDEI
 project. First, the subjects with missing anatomical or functional files were excluded. Second, all subjects from the
