@@ -1,4 +1,4 @@
-# Functional connectivity networks of ABIDE-I
+# Functional Connectivity Networks of ABIDE-I
 
 ## Background
 
