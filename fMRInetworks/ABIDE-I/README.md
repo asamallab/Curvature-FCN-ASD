@@ -17,7 +17,7 @@ The files contain three columns - **source**, **target** and **correlation coeff
 
 ## Functional Connectivity Networks (FCNs)
 
-From the FCM of a given subject, we extracted the FCNs by combining two network filtering approaches:
+From the FCM of a given subject, we extracted the FCNs by combining two network filtering approaches.
 
 * maximum spanning tree (MST) using Kruskal's algorithm, and 
 * sparsity-based thresholding 
@@ -25,7 +25,8 @@ From the FCM of a given subject, we extracted the FCNs by combining two network 
 We constructed the FCNs over a wide range of edge densities between 0.02 or 2% edges and 0.5 or 50% edges, with an increment of 0.01 or 1% edges. 
 
 The FCNs used in our study are available in the edgelist format in [FCN](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/FCN) directory, and are further organised by edge densities.
-The files in FCN contain three columns - **source**, **target** and **correlation coefficient** as edge attribute. (Please note that our networks are undirected)
+The edgelist for each FCN contains three columns - **source**, **target** and **correlation coefficient** as edge attribute.
+_Please note that all the FCNs used in our study were binarized before further analysis._
 
 ## Supporting files
 
@@ -35,11 +36,11 @@ Table containing the demographic information such as imaging site, unique subjec
 
 2. **_Schaefer200.txt_**
 
-A list of all the 200 regions of interest (nodes) in the Functional connectivity networks. Please note that these regions are encoded as integers from 0 to 199 (in order) in the functional connectivity networks provided.
+A list of all the 200 regions of interest (nodes) in the FCNs. Please note that these regions are encoded as integers from 0 to 199 (in order) in the FCNs provided.
 
 ## Supplementary Tables
 
-An Excel workbook containing all the Supplementary Tables S1-S7 for our paper can be downloaded [supplementary_tables](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/supplementary_tables) directory. A brief description of each Supplementary Table is provided as a README file inside the directory.
+An Excel workbook containing all the Supplementary Tables S1-S7 for our paper can be downloaded from [Supplementary_Tables](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/Supplementary_Tables) directory. A brief description of each Supplementary Table is provided as a README file inside the directory.
 
 ## CITATION
 If you use the data from our repository for your work, please cite,
