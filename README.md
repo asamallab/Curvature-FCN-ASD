@@ -1,7 +1,7 @@
 # RicciCurvature-fMRInetworks
 
 ## Reference
-This repository provides the data and codes associated with the following paper:<br>
+This repository provides the data and codes associated with the following manuscript:<br>
 <i>Graph Ricci Curvatures Reveal Disease-related Changes in Autism Spectrum Disorder,</i><br>
 Pavithra Elumalai#, Yasharth Yadav#, Nitin Williams*, Emil Saucan, Jürgen Jost, Areejit Samal*<br>
 (# Equal contribution; *Corresponding author)
