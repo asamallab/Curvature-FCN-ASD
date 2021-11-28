@@ -29,7 +29,7 @@ S1.
 
 **Supplementary Table S3:** The terms associated with behavior, cognition and perception obtained from Neurosynth
 tool for the set of brain regions belonging to the seven RSNs with significant between-group differences in 
-node FRC and clustering coefficient. The frequency of occurrence of the terms associated with an RSN were
+node FRC. The frequency of occurrence of the terms associated with an RSN were
 tested for statistical significance by comparing with the frequencies obtained from random surrogate brain regions
 and further subjected to FDR correction with alpha equal to 0.05 (see Methods). The terms that survived the FDR
 correction are presented in this table along with their frequencies. The terms and their frequencies in this table are
