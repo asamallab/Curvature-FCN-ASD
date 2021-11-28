@@ -25,9 +25,6 @@ For this investigation, we analysed spatially and temporally preprocessed rs-fMR
 
 ![schema image](https://github.com/asamallab/Curvature-FCN-ASD/blob/main/README-SchemaImage.png)
 
-A visual guide to functional MRI preprocessing using CONN toolbox is available here:
-[![Alt text](https://img.youtube.com/vi/MJG8-oUsLqg/0.jpg)](https://www.youtube.com/watch?v=MJG8-oUsLqg)
-
 ## Functional Connectivity Matrices (FC matrices)
 
 The 200 × 200 FC matrix of every subject, that was obtained at the end of the preprocessing pipeline is available in the edge list format (assuming the FC matrices as the adjacency matrices of complete graphs) in [FCM](https://github.com/asamallab/Curvature-FCN-ASD/tree/main/FCM) directory.
@@ -56,6 +53,6 @@ Table containing the demographic information such as imaging site, unique subjec
 
 A list of all the 200 regions of interest (nodes) in the FCNs. Please note that these regions are encoded as integers from 0 to 199 (in order) in the FCNs provided.
 
-## Supplementary Tables
+# Supplementary Tables
 
 An Excel workbook containing all the Supplementary Tables S1-S7 for our paper can be downloaded from [Supplementary_Tables](https://github.com/asamallab/Curvature-FCN-ASD/tree/main/Supplementary_Tables) directory. A brief description of each Supplementary Table is provided as a README file inside the directory.
