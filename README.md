@@ -15,7 +15,7 @@ Pavithra Elumalai#, Yasharth Yadav#, Nitin Williams*, Emil Saucan, Jürgen Jost,
 
 ## Protocol video 
 A visual guide to functional MRI preprocessing using CONN toolbox is available here:
-[![Alt text](https://img.youtube.com/vi/MJG8-oUsLqg/0.jpg)](https://www.youtube.com/watch?v=MJG8-oUsLqg)
+[![Protocol video](https://img.youtube.com/vi/MJG8-oUsLqg/0.jpg)](https://www.youtube.com/watch?v=MJG8-oUsLqg)
 
 # Functional Connectivity Networks corresponding to ABIDE-I dataset
 
