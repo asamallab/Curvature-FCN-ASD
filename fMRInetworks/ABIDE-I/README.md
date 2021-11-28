@@ -1,6 +1,4 @@
-# Functional Connectivity Networks of ABIDE-I
-
-## Background
+# Functional Connectivity Networks corresponding to ABIDE-I dataset
 
 In our study, we evaluate the utility of two discrete Ricci curvatures, Forman-Ricci curvature and Ollivier-Ricci curvature that have been recently ported to the domain of complex networks, as indicators of abnormal topological organization in resting state fMRI based functional connectivity networks (FCNs) corresponding to individuals with **_autism spectrum disorder (ASD)_**. 
 
