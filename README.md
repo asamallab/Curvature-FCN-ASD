@@ -1,4 +1,4 @@
-# rsfMRI-FCN-ASD
+# Curvature-FCN-ASD
 
 
 This repository provides the datasets and codes associated with the following manuscript:<br>
