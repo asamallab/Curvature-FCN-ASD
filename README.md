@@ -1,9 +1,9 @@
 # RicciCurvature-fMRInetworks
 
 ## References
-This repository provides the data and codes involved in the following papers,
-
-Add citation
+This repository provides the data and codes associated with the following paper:
+<i>Graph Ricci Curvatures Reveal Disease-related Changes in Autism Spectrum Disorder</i>
+Pavithra Elumalai#, Yasharth Yadav#, Nitin Williams*, Emil Saucan, Jürgen Jost, Areejit Samal*
 
 ## Background
 
@@ -18,6 +18,3 @@ For the analysis of functional connectivity networks of the human brain, we spat
  ABIDE-I is a shared initiative by 17 individual imaging sites and studies across the globe that provides raw structural and functional magnetic resonance images(MRI) subjects with _**autism spectrum disorders (ASD)**_ and _**age matched healthy controls (HC)**_. The are a total of 1112 subjects in ABIDE-I (539 ASD and 573 HC) out of which, we used 820 subjects (395 ASD and 425 HC) for our study. Refer to [fMRInetworks/ABIDE-I](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I)  for detailed information.
  
 [![Alt text](https://img.youtube.com/vi/MJG8-oUsLqg/0.jpg)](https://www.youtube.com/watch?v=MJG8-oUsLqg)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MJG8-oUsLqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
