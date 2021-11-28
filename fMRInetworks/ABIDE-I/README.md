@@ -43,8 +43,8 @@ A list of all the 200 regions of interest (nodes) in the FCNs. Please note that 
 
 An Excel workbook containing all the Supplementary Tables S1-S7 for our paper can be downloaded from [Supplementary_Tables](https://github.com/asamallab/RicciCurvature-fMRInetworks/tree/main/fMRInetworks/ABIDE-I/Supplementary_Tables) directory. A brief description of each Supplementary Table is provided as a README file inside the directory.
 
-## CITATION
-If you use the data from our repository for your work, please cite,
+### CITATION
+If you use the data from our repository for your work, please cite:<br>
 <i>Graph Ricci Curvatures Reveal Disease-related Changes in Autism Spectrum Disorder,</i><br>
 Pavithra Elumalai#, Yasharth Yadav#, Nitin Williams*, Emil Saucan, Jürgen Jost, Areejit Samal*<br>
 (# Equal contribution; *Corresponding author)
