@@ -3,7 +3,7 @@
 
 This repository provides the datasets and codes associated with the following manuscript:<br>
 <i>Graph Ricci Curvatures Reveal Disease-related Changes in Autism Spectrum Disorder,</i><br>
-Pavithra Elumalai#, Yasharth Yadav#, Nitin Williams*, Emil Saucan, Jürgen Jost, Areejit Samal*<br>
+Pavithra Elumalai#, Yasharth Yadav#, Nitin Williams*, Emil Saucan, Jürgen Jost, Areejit Samal*,<br>
 bioRxiv 2021.11.28.470231; doi: https://doi.org/10.1101/2021.11.28.470231<br>
 (# Equal contribution; *Corresponding author)
 
