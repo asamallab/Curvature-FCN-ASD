@@ -16,7 +16,7 @@ bioRxiv 2021.11.28.470231; doi: https://doi.org/10.1101/2021.11.28.470231<br>
 
 ## Protocol video 
 A visual guide to functional MRI preprocessing using CONN toolbox is available here:
-[![Protocol video](https://img.youtube.com/vi/MJG8-oUsLqg/0.jpg)](https://www.youtube.com/watch?v=MJG8-oUsLqg)
+[![Protocol video](https://img.youtube.com/vi/MJG8-oUsLqg/0.jpg)](https://www.youtube.com/watch?v=ch7-dOA-Vlo)
 
 # Functional Connectivity Networks corresponding to ABIDE-I dataset
 
