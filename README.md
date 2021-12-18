@@ -10,7 +10,7 @@ bioRxiv 2021.11.28.470231; doi: https://doi.org/10.1101/2021.11.28.470231<br>
 ![network example](https://github.com/asamallab/Curvature-FCN-ASD/blob/main/readme_image.png)
 
 * For the analysis of functional connectivity networks (FCNs) of the human brain, we spatially and temporally preprocess fMRI scans from the ABIDE-I dataset, using the MATLAB based CONN toolbox.
-* ABIDE-I is a shared initiative by 17 individual imaging sites and compiles studies across the globe that provide raw structural and functional magnetic resonance images (MRI) subjects with _**autism spectrum disorders (ASD)**_ and _**age matched healthy controls (HC)**_. When we initiated our study, there were a total of 1112 subjects in ABIDE-I (539 ASD and 573 HC) out of which, we used 820 subjects (395 ASD and 425 HC) for our study. 
+* ABIDE-I is a shared initiative by 17 individual imaging sites and compiles studies across the globe that provide raw structural and functional magnetic resonance images (MRI) of individuals with _**autism spectrum disorders (ASD)**_ and _**age matched typically developing controls (TD)**_. When we initiated our study, there were a total of 1112 subjects in ABIDE-I (539 ASD and 573 HC) out of which, we used 820 subjects (395 ASD and 425 HC) for our study. 
 * The codes that were used in our study and analysis are available in the [CODES](https://github.com/asamallab/Curvature-FCN-ASD/tree/main/CODES) folder.
 
 
@@ -22,7 +22,7 @@ A visual guide to functional MRI preprocessing using CONN toolbox is available h
 
 In our study, we evaluate the utility of two discrete Ricci curvatures, Forman-Ricci curvature and Ollivier-Ricci curvature that have been recently ported to the domain of complex networks, as indicators of abnormal topological organization in resting state fMRI based functional connectivity networks (FCNs) corresponding to individuals with **_autism spectrum disorder (ASD)_**. 
 
-For this investigation, we analysed spatially and temporally preprocessed rs-fMRI images of 395 subjects with autism spectrum disorder (ASD) and 425 healthy controls (HC), using the CONN toolbox. Subsequently, 200 regions of interest (ROIs) or nodes were defined in the brain using the Schafer atlas, and a 200 × 200 functional connectivity matrix was generated for each subject by computing the Pearson correlation coefficient between the time-series of all pairs of nodes. The schematic overview of our preprocessing pipeline can be found below.
+For this investigation, we analysed spatially and temporally preprocessed rs-fMRI images of 395 individuals with autism spectrum disorder (ASD) and 425 typically developing controls (TD), using the CONN toolbox. Subsequently, 200 regions of interest (ROIs) or nodes were defined in the brain using the Schafer atlas, and a 200 × 200 functional connectivity matrix was generated for each subject by computing the Pearson correlation coefficient between the time-series of all pairs of nodes. The schematic overview of our preprocessing pipeline can be found below.
 
 ![schema image](https://github.com/asamallab/Curvature-FCN-ASD/blob/main/README-SchemaImage.png)
 
@@ -48,7 +48,7 @@ _Please note that all the FCNs used in our study were binarized before further a
 
 1. **_demographic_table.tsv_**
 
-Table containing the demographic information such as imaging site, unique subject identifer, age, gender and cohort (healthy/ASD) of all the 820 subjects included in our study.
+Table containing the demographic information such as imaging site, unique subject identifer, age, gender and cohort (TD/ASD) of all the 820 subjects included in our study.
 
 2. **_Schaefer200.txt_**
 
