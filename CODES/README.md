@@ -1,6 +1,6 @@
 # CODES
 The below described codes were written while carrying out research reported in the following manuscripts:
-* P. Elumalai, Y. Yadav, N. Williams, E. Saucan, J. Jost & A.Samal, Graph Ricci Curvatures Reveal Disease-related Changes in Autism Spectrum Disorder,  bioRxiv 2021.11.28.470231; doi: https://doi.org/10.1101/2021.11.28.470231
+* P. Elumalai, Y. Yadav, N. Williams, E. Saucan, J. Jost & A.Samal, Graph Ricci Curvatures Reveal Atypical Functional Connectivity in Autism Spectrum Disorder,  bioRxiv 2021.11.28.470231; doi: https://doi.org/10.1101/2021.11.28.470231
 * A. Samal, R.P. Sreejith, J. Gu, S. Liu, E. Saucan & J. Jost, Comparative analysis of two discretizations of Ricci curvature for complex networks, Scientific Reports 8: 8650 (2018).
 * R.P. Sreejith, K. Mohanraj, J. Jost, E. Saucan & A. Samal, Forman curvature for complex networks, Journal of Statistical Mechanics: Theory and Experiment 063206 (2016).
 
