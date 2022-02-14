@@ -7,7 +7,9 @@ Pavithra Elumalai#, Yasharth Yadav#, Nitin Williams*, Emil Saucan, Jürgen Jost,
 bioRxiv 2021.11.28.470231; doi: https://doi.org/10.1101/2021.11.28.470231<br>
 (# Equal contribution; *Corresponding author)
 
+## Graphical Abstract
 ![network example](https://github.com/asamallab/Curvature-FCN-ASD/blob/main/GraphicalAbstract.png)
+
 
 * For the analysis of functional connectivity networks (FCNs) of the human brain, we spatially and temporally preprocess fMRI scans from the ABIDE-I dataset, using the MATLAB based CONN toolbox.
 * ABIDE-I is a shared initiative by 17 individual imaging sites and compiles studies across the globe that provide raw structural and functional magnetic resonance images (MRI) of individuals with _**autism spectrum disorders (ASD)**_ and _**age matched typically developing controls (TD)**_. When we initiated our study, there were a total of 1112 subjects in ABIDE-I (539 ASD and 573 HC) out of which, we used 820 subjects (395 ASD and 425 HC) for our study. 
